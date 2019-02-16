@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/p2_package/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/p2_package/lib/opennlp-tools-1.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-api-client-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-api-client-android-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-api-client-appengine-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-api-client-gson-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-api-client-jackson2-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-api-client-java6-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-api-client-servlet-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-http-client-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-http-client-android-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-http-client-appengine-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-http-client-gson-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-http-client-jackson2-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-http-client-jdo-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-oauth-client-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-oauth-client-appengine-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-oauth-client-java6-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-oauth-client-jetty-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/google-oauth-client-servlet-1.25.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/jackson-core-2.9.6.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/libs/transaction-api-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/google-api-services-youtube-v3-rev206-1.25.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/google-api-services-youtube-v3-rev206-1.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/chaiyakarn/Desktop/youtube-2/google-api-services-youtube-v3-rev206-1.25.0.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
